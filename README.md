@@ -233,3 +233,6 @@ This repository serves as the official landing page for 3D Yams Unlimited. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 3D Yams Unlimited today!**
+
+---
+**Last updated:** 2026-09-07 19:04:29 UTC
